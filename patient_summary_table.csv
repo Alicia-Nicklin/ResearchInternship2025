@@ -1,0 +1,7 @@
+Stage,Patient_Count
+Expression (after deduplication),245
+With OS info,245
+With DSS info,235
+With PFI info,245
+After follow-up ≥ 30 days (OS),235
+After follow-up ≥ 90 days (OS),227
